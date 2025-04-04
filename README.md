@@ -1,4 +1,10 @@
-# Learning Assembly by solving
+# Learning Assembly by Solving
+
+Welcome to **Learning Assembly by Solving**, a collection of 20 small assembly language programs designed to teach fundamental concepts through practical examples. Each program solves a specific problem, ranging from basic arithmetic to control structures, all written in x86-64 assembly using NASM syntax for Linux systems.
+
+## Purpose
+
+The goal is to learn assembly language by implementing solutions to common programming problems. Each `.S` file (e.g., `1.S`, `2.S`, ..., `20.S`) in the root directory corresponds to a question listed below, providing hands-on experience with low-level programming.
 
 ## Questions
 
@@ -41,3 +47,5 @@
 18. Print the alphabet A to E using a loop
 
 19. Take two numbers and print which one is closer to 10
+
+This repository is hosted at [https://github.com/BaseMax/learn-assembly/](https://github.com/BaseMax/learn-assembly/). Copyright © 2025 Max Base, licensed under the [MIT License](#license).
