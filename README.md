@@ -108,10 +108,6 @@ To compile and execute these programs on a Linux system with NASM installed:
 
 Or try online compilers such as https://onecompiler.com/assembly/43dsexwn3
 
-## License
-
-Copyright © 2025 Max Base. This project is licensed under the MIT License. See the  file for details.
-
 ## Contributing
 
 Feel free to fork this repository, submit pull requests, or open issues for suggestions and improvements. Contributions are welcome!
@@ -119,3 +115,7 @@ Feel free to fork this repository, submit pull requests, or open issues for sugg
 ## Acknowledgments
 
 Created as a learning exercise by Max Base to explore assembly language programming. Inspired by fundamental programming challenges adapted to the low-level environment.
+
+## License
+
+Copyright © 2025 Max Base. This project is licensed under the MIT License.
